@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a comprehensive **HR Analytics Power BI dashboard** developed to provide clear, data-driven insights into Nava Company's workforce. The report is designed to support HR managers, business leaders, and decision-makers by transforming raw HR data into meaningful visual analytics. It focuses on employee headcount, hiring and termination trends, retention, and turnover analysis over time, enabling better workforce planning and strategic decision-making.
+This project is a comprehensive **HR Analytics Power BI dashboard** developed to provide clear, data-driven insights into Nova Company's workforce. The report is designed to support HR managers, business leaders, and decision-makers by transforming raw HR data into meaningful visual analytics. It focuses on employee headcount, hiring and termination trends, retention, and turnover analysis over time, enabling better workforce planning and strategic decision-making.
 
 The dashboard follows best practices in data modeling, DAX measure design, and interactive reporting, ensuring accuracy, scalability, and ease of use.
 
