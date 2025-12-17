@@ -1,4 +1,4 @@
-# HR Report for Nava Company (Power BI)
+# HR Report for Nova Company (Power BI)
 
 ## Project Overview
 
